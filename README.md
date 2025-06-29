@@ -1,7 +1,6 @@
-SkyLink Airlines: International Expansion Strategy - BCG Winter Case Competition 2025
+SkyLink Airlines: Strategic Market Entry Proposal – BCG Winter Case Competition 2025
+This repository contains a strategic market entry proposal for SkyLink Airlines, created as part of the BCG Winter Case Competition 2025. The project explores international expansion opportunities for a low-cost carrier, applying structured prioritisation frameworks to shortlist markets based on demand, regulatory feasibility, and competitive pressures.
 
-This project presents a strategic international expansion plan for SkyLink Airlines, developed as part of the BCG Winter Case Competition 2025. The team assessed a range of international markets using structured entry criteria and identified Colombia as the strongest option for a pilot entry, based on tourism demand, operational feasibility and competitive dynamics.
+Colombia emerged as the optimal entry point, with Medellín and Cartagena selected as initial destinations due to their tourism appeal and less congested airport infrastructure compared to Bogotá. The proposal outlines a six-month pilot route from Miami, enabling SkyLink to test market fit while maintaining cost efficiency.
 
-The final proposal recommends launching flights from the US to Medellín and Cartagena, two high-potential cities that align with SkyLink’s low-cost model and avoid the slot constraints of Bogotá. The strategy outlines key elements including route selection, brand positioning, commercial partnerships and risk mitigation. A pilot approach has been recommended to minimise upfront exposure while enabling data-led decisions for future growth.
-
-This work reflects a combination of strategic research, market prioritisation and clear operational planning tailored to the airline industry.
+The strategy incorporates brand positioning, commercial partnerships, and risk mitigation tactics, with a particular emphasis on seasonal route scheduling and diaspora outreach to build early traction. This work demonstrates a practical blend of strategic thinking, market analysis, and implementation planning aligned with the needs of a growing airline.
